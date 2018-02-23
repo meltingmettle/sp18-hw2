@@ -7,6 +7,7 @@ class Stringify
   end
 
   def what_am_i
-  	# YOUR IMPLEMENTATION HERE
+  	return "allhu ackbar"
+    end
   end
 end
